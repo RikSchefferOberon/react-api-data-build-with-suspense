@@ -1,0 +1,8 @@
+{
+  "extends": ["tslint-config-oberon"],
+  "rules": {
+    "indent": false,
+    "align": false,
+    "ter-indent": false
+  }
+}

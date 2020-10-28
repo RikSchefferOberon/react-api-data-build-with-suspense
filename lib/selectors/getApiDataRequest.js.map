@@ -1,0 +1,1 @@
+{"version":3,"file":"getApiDataRequest.js","sourceRoot":"","sources":["../../src/selectors/getApiDataRequest.ts"],"names":[],"mappings":";;;AACA,0DAAyD;AAGzD;;;;GAIG;AAEU,QAAA,iBAAiB,GAAG,UAC7B,KAAY,EACZ,WAAmB,EACnB,MAAuB,EACvB,UAAuB;IAAvB,2BAAA,EAAA,eAAuB;IACG,OAAA,KAAK,CAAC,QAAQ,CAAC,6BAAa,CAAC,WAAW,EAAE,MAAM,EAAE,UAAU,CAAC,CAAC;AAA9D,CAA8D,CAAC"}

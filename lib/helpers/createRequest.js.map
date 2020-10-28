@@ -1,0 +1,1 @@
+{"version":3,"file":"createRequest.js","sourceRoot":"","sources":["../../src/helpers/createRequest.ts"],"names":[],"mappings":";;AAEA,+DAA+D;AAC/D,mBAAe,UAAC,WAAmB,IAAkB,OAAA,CAAC;IAClD,aAAa,EAAE,OAAO;IACtB,QAAQ,EAAE,CAAC;IACX,QAAQ,EAAE,CAAC;IACX,WAAW,aAAA;IACX,GAAG,EAAE,EAAE;CACV,CAAC,EANmD,CAMnD,EAAC"}

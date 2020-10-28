@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "src",
+    "module": "CommonJS",
+    "target": "es5",
+    "downlevelIteration": true,
+    "lib": ["es6", "dom", "esnext.asynciterable"],
+    "sourceMap": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": false,
+    "noUnusedLocals": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "declaration": true
+  },
+  "exclude": [
+    "example",
+    "node_modules",
+    "lib",
+    "scripts",
+    "acceptance-tests",
+    "webpack",
+    "jest",
+    "src/setupTests.ts",
+    "public",
+    "coverage",
+    "src/mocks",
+    "src/**/*.test.ts"
+  ]
+}
