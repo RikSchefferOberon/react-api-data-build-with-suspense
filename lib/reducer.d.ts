@@ -37,7 +37,6 @@ export interface FetchAction {
         endpointKey: string;
         params?: EndpointParams;
         url: string;
-        promise: Promise<unknown>;
     };
 }
 export declare type Action = ConfigureAction | FetchAction | SuccessAction | FailAction | InvalidateRequestAction | ClearAction | AfterRehydrateAction | PurgeRequestAction | PurgeAllAction;

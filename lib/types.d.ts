@@ -31,7 +31,6 @@ export interface DataRequest {
     endpointKey: string;
     params?: EndpointParams;
     url: string;
-    promise?: Promise<unknown>;
 }
 export interface GlobalConfig {
     setHeaders?: (defaultHeaders: any, state: any) => any;
